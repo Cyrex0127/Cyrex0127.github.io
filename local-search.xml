@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>一些碎碎念</title>
+    <link href="/2025/03/25/%E4%B8%80%E4%BA%9B%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <url>/2025/03/25/%E4%B8%80%E4%BA%9B%E7%A2%8E%E7%A2%8E%E5%BF%B5/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一些碎碎念"><a href="#一些碎碎念" class="headerlink" title="一些碎碎念"></a>一些碎碎念</h1><p>总感觉这两周的情绪不太对劲，所以我决定再写点东西吧，其实现在你读到的内容已经是我写写删删好几遍的东西了，看来我确实丢失了一些表达自我的能力，不过也没办法哈哈哈毕竟已经很久没这么写过小作文了。其实细细捋一下过后我就很清楚了，我现在烦躁就俩原因，其一是天天都在码，学的东西确乎有些超出我的能力导致我没什么兴趣而且效率低下，而且我并不准备考研或者出国，目前我在考虑的方向其实只有本科就业这一条路，这容错也太低了，目标希望能暑假或者大三上开学的时候开始实习刷怪，总感觉压力有点大，这种目标的紧迫性与能力的不匹配导致了我现在的焦虑，但也没法嘛，总得慢慢熬下来的。。。另外嘛。。。唉真的很烦一到春天就开始想谈恋爱，况且好巧不巧还真的有点喜欢一个人。。。我发誓这真的是直球战神唯一一次不敢打直球的情况。。。他真的太优秀了除非人家哪天突然被路边一条突然创进医院得了重度脑震荡才能看上我。。。真的很不爽呃啊啊啊啊啊啊啊啊啊啊。。。真的好讨厌这种单相思的感觉恨不得把前额叶切了，本来拼好的拼图是准备送出去的但想了想觉得算了还是老老实实当朋友吧。。。而且越发觉得每天刷小蓝小红是一件非常没有意义的事情。。。我是很想谈恋爱没错但我又不想为了谈恋爱而谈恋爱，啧，烦死了。唉，先收拾收拾心情吧。差不多得睡觉了。</p><p>2025.3.17</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>不那么正经的碎碎念</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>开站首文</title>
+    <link href="/2025/03/25/%E5%BC%80%E7%AB%99%E9%A6%96%E6%96%87/"/>
+    <url>/2025/03/25/%E5%BC%80%E7%AB%99%E9%A6%96%E6%96%87/</url>
+    
+    <content type="html"><![CDATA[<h1 id="开站首文"><a href="#开站首文" class="headerlink" title="开站首文"></a>开站首文</h1><p>其实搭建个人博客纯属一时兴起，可能是这段时间情绪不太对劲导致的，也可能是因为感觉自己pyq太吵了，说实话感觉这段时间有点高压了，每天两眼一睁就是码，学不完的方法和背不完的八股，又加上春天确实让我有些心烦意乱，所以我决定重拾丢下了很久的笔来写点东西，或许能带给我一些启发。</p><p>由于我嫌麻烦所以没去弄wordpress，这个网站是基于github.io的静态博客，但是写在notion上的笔记太多而且大多冗长繁杂，所以短时间内可能不会搬运上来（绝对不是懒），随缘好了。</p><p>2025.3.25</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>正经碎碎念</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="/2025/03/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <url>/2025/03/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文章（北邮怎么这么坏）</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2025/03/25/hello-world/"/>
+    <url>/2025/03/25/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
